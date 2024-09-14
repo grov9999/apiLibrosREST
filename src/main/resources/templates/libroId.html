@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns="http://www.thymeleaf.org">
+
+<head>
+	<title>Buscar libro</title>
+</head>
+
+<body>
+	<h1>Detalle del libro</h1>
+	<table>
+		<thead>
+			<tr>
+				<th>Nro</th>
+				<th>Título</th>
+				<th>Autor</th>
+				<th>Género</th>
+				<th>Año de publicación</th>
+				<th>ISBN</th>
+				<th>Descripción</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td th:text="${libro.id}">Nro</td>
+				<td th:text="${libro.titulo}">Título</td>
+				<td th:text="${libro.autorId}">Autor</td>
+				<td th:text="${libro.generoId}">Género</td>
+				<td th:text="${libro.anioPublicacion}">Año de publicación</td>
+				<td th:text="${libro.isbn}">ISBN</td>
+				<td th:text="${libro.descripcion}">Descripción</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+
+</html>
