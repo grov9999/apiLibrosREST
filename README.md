@@ -88,9 +88,13 @@ buscar los archivos
 4. Seleccionar tu archivo dbtest.bak y aceptar
 
 ## Preview del Swagger
-![](https://github.com/grov9999/apiLibrosREST/blob/main/assets/92021.png))
+![](https://github.com/grov9999/apiLibrosREST/blob/main/assets/92021.png)
+## Listar todos los libros
 ![](https://github.com/grov9999/apiLibrosREST/blob/main/assets/214521.png)
+## Buscar libro por id
 ![](https://github.com/grov9999/apiLibrosREST/blob/main/assets/214545.png)
+## Listar libros con detalle
 ![](https://github.com/grov9999/apiLibrosREST/blob/main/assets/214604.png)
+## Borrar libros de manera lógica
 ![](https://github.com/grov9999/apiLibrosREST/blob/main/assets/214503.png)
 
