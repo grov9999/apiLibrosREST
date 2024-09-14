@@ -71,6 +71,8 @@ spring.datasource.password=(password)
 3. Cambiar (user) por el nombre de tu usuario
 4. Cambiar (password) por la constraseña de tu usuario
 
+![](https://github.com/grov9999/apiLibrosREST/blob/main/assets/202329.png)
+
 ### Ruta del script de la bd (tablas y store procedures)
 
 En la siguiente ruta ..sql/
